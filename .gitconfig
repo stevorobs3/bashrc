@@ -21,3 +21,5 @@
     rao = remote add origin
 [push]
 	default = current
+[core]
+	editor = emacs
